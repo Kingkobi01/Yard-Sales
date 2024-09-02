@@ -1,0 +1,46 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "CartItem",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "user",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Favorite",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "user",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "item",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "seller",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "modified_at",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

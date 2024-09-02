@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1064585625477",
+    "project_id": "yard-sales-1386b",
+    "storage_bucket": "yard-sales-1386b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064585625477:android:5a568f4aff56e9df518eec",
+        "android_client_info": {
+          "package_name": "com.hapaweb.yardsales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064585625477-25ri2kvfa1d6r3kv9oihaschnapvojf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hapaweb.yardsales",
+            "certificate_hash": "0ce4bc46d0768c8705aa770cb4b54d28eb9aeb09"
+          }
+        },
+        {
+          "client_id": "1064585625477-ii6i3dit4i9l1p2htg4p107tef9a0bgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hapaweb.yardsales",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1064585625477-nn1igofkp65mjacfej277id9vvrdnh26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RVBy4vFeoKcdaKHsCmJhun1GjEMLCG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064585625477-nn1igofkp65mjacfej277id9vvrdnh26.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064585625477-ovftrq0qv4qsenl3m32u8bj5keth7lrv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hapaweb.yardsales"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
